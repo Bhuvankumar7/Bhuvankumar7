@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=280&section=header&text=BHUVAN%20KUMAR%20D&fontSize=70&fontColor=FFD700&animation=fadeIn&desc=Code%20Mage%20of%20the%20Golden%20Dawn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=280&section=header&text=Bhuvan%20Kumar%20D&fontSize=70&fontColor=FFD700&animation=fadeIn"
     width="100%"
   />
 </p>

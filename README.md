@@ -1,16 +1,15 @@
-## Hi there 👋
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=280&section=header&text=BHUVAN%20KUMAR%20D&fontSize=70&fontColor=FFD700&animation=fadeIn&desc=Code%20Mage%20of%20the%20Golden%20Dawn"
+    width="100%"
+  />
+</p>
 
-<!--
-**Bhuvankumar7/Bhuvankumar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=32&pause=2000&color=FFD700&center=true&vCenter=true&width=600&lines=Goal+to+become+Wizard+King"
+  />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
